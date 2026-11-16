@@ -1,0 +1,7 @@
+# Binarios compilados
+sistema-streaming
+*.exe
+
+# Archivos del editor y del sistema
+.vscode/
+.DS_Store
