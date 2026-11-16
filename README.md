@@ -25,7 +25,7 @@ sistema-streaming/
     └── guion_video.md          → guion del video explicativo
 ```
 
-Cada paquete corresponde a un módulo del diseño. Las funciones exportadas
+Cada paquete corresponde a un módulo del diseño, las funciones exportadas
 (con mayúscula inicial) son las declaradas en la tabla de funciones del PDF.
 
 ## Paquetes utilizados
