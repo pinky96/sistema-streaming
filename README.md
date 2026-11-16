@@ -22,7 +22,7 @@ sistema-streaming/
 ├── reproduccion/
 │   └── reproduccion.go         → ReproducirContenido, AgregarAFavoritos, VerHistorial
 └── docs/
-    └── guion_video.md          → guion del video explicativo
+    └── el video                → Url del video 
 ```
 
 Cada paquete corresponde a un módulo del diseño, las funciones exportadas
